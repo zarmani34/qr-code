@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+.container {
+  width: 320px;
+  height: 497px;
+  background-color: hsl(0, 0%, 100%);
+  margin: 80px auto;
+  border-radius: 16px;
+}
+h1 {
+  font-size: 22px;
+  margin: 24px 32px;
+  color: hsl(218, 44%, 22%);
+}
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  margin: 24px 32px;
+}
+h1,
+p {
+  text-align: center;
+}
+img {
+  width: 288px;
+  margin: 16px;
+  margin-bottom: 0;
+  border-radius: 8px;
+}
+a:hover {
+  /* color: hsl(220, 15%, 55%); */
+}
